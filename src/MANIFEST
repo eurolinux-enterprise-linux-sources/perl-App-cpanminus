@@ -1,0 +1,12 @@
+Changes
+LICENSE
+MANIFEST
+MANIFEST.SKIP
+META.json
+META.yml
+Makefile.PL
+README
+bin/cpanm
+cpanfile
+lib/App/cpanminus.pm
+t/happy_cpantesters.t
