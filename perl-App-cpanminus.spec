@@ -1,6 +1,6 @@
 Name:           perl-App-cpanminus
 Version:        1.6922
-Release:        1%{?dist}
+Release:        2%{?dist}
 Summary:        Get, unpack, build and install CPAN modules
 License:        GPL+ or Artistic
 Group:          Development/Libraries
@@ -96,6 +96,9 @@ make test
 %{_bindir}/cpanm
 
 %changelog
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 1.6922-2
+- Mass rebuild 2013-12-27
+
 * Fri Jun 21 2013 Petr Pisar <ppisar@redhat.com> - 1.6922-1
 - 1.6922 bump
 
